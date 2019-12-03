@@ -1,0 +1,6 @@
+com\ccontroller\LoginController.class
+com\config\WebConfig.class
+com\config\ApplicationConfig.class
+com\config\WebSecurityConfig.class
+com\init\SpringApplicationInitializer.class
+com\init\SpringSecurityApplicationInitializer.class
